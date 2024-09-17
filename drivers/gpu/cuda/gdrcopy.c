@@ -82,9 +82,7 @@ gdrcopy_open(gdr_t *g)
 #endif
 
 int
-gdrcopy_pin(__rte_unused gdr_t *gdrc_h, __rte_unused gdr_mh_t *mh,
-		__rte_unused uint64_t d_addr, __rte_unused size_t size,
-		__rte_unused void **h_addr)
+gdrcopy_pin(gdr_t *gdrc_h, __rte_unused gdr_mh_t *mh, uint64_t d_addr, size_t size, void **h_addr)
 {
 #ifdef DRIVERS_GPU_CUDA_GDRCOPY_H
 	if (*gdrc_h == NULL) {
@@ -120,8 +118,7 @@ gdrcopy_pin(__rte_unused gdr_t *gdrc_h, __rte_unused gdr_mh_t *mh,
 }
 
 int
-gdrcopy_unpin(gdr_t gdrc_h, __rte_unused gdr_mh_t mh,
-		__rte_unused void *d_addr, __rte_unused size_t size)
+gdrcopy_unpin(gdr_t gdrc_h, __rte_unused gdr_mh_t mh, void *d_addr, size_t size)
 {
 	if (gdrc_h == NULL)
 		return -EINVAL;
