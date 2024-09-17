@@ -1,0 +1,136 @@
+Testing rx_rate=250, rx_ring_size=512, processing_time=0
+Test complete
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10506, Packets dropped at NIC: 107, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 8295, Packets dropped at NIC: 2318, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 8855, Packets dropped at NIC: 1758, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 9762, Packets dropped at NIC: 851, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 3511, Packets dropped at NIC: 7102, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 3959, Packets dropped at NIC: 6655, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 4887, Packets dropped at NIC: 5726, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=0
+Testing with ping pong size=1024
+Port 0 initialized and started
+Packets received: 6839, Packets dropped at NIC: 3774, Total drops at application layer: 0
+Port 0 closed
+Test complete
+---------------------------------------------

@@ -1,0 +1,2247 @@
+Testing rx_rate=250, rx_ring_size=128, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10608, Packets dropped at NIC: 5, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=128, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=128, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 823, Packets dropped at NIC: 9790, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=128, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=128, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 375, Packets dropped at NIC: 10239, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=128, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=128, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=128, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=128, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 183, Packets dropped at NIC: 10430, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=128, processing_time=100
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=256, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=256, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=256, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 919, Packets dropped at NIC: 9695, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=256, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=256, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 535, Packets dropped at NIC: 10078, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=256, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=256, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 343, Packets dropped at NIC: 10270, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=256, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=256, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 311, Packets dropped at NIC: 10302, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=256, processing_time=100
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=512, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=512, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=512, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 1175, Packets dropped at NIC: 9438, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=512, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=512, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228387 seconds
+Rated: 31249904.7 Bps, 249.99 Mbps, 46464.99 pps
+Flows: 589 flows, 2578.95 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 759, Packets dropped at NIC: 9855, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=512, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=512, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 599, Packets dropped at NIC: 10014, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=512, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=512, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 535, Packets dropped at NIC: 10078, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=512, processing_time=100
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228387 seconds
+Rated: 31249904.7 Bps, 249.99 Mbps, 46464.99 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.95 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=1024, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 1687, Packets dropped at NIC: 8927, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=1024, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1271, Packets dropped at NIC: 9343, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=1024, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1143, Packets dropped at NIC: 9470, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=1024, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=1024, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1047, Packets dropped at NIC: 9567, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=1024, processing_time=100
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=2048, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2711, Packets dropped at NIC: 7902, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=2048, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228397 seconds
+Rated: 31248536.5 Bps, 249.98 Mbps, 46462.95 pps
+Port 0 initialized and started
+Packets received: 2295, Packets dropped at NIC: 8319, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.84 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=2048, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2167, Packets dropped at NIC: 8446, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=2048, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=2048, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2103, Packets dropped at NIC: 8511, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=2048, processing_time=100
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=4096, processing_time=0
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Port 0 initialized and started
+Packets received: 4759, Packets dropped at NIC: 5855, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=250, rx_ring_size=4096, processing_time=10
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4343, Packets dropped at NIC: 6270, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=4096, processing_time=25
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4215, Packets dropped at NIC: 6398, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=4096, processing_time=50
+---------------------------------------------
+Testing rx_rate=250, rx_ring_size=4096, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.228386 seconds
+Rated: 31250041.5 Bps, 250.00 Mbps, 46465.19 pps
+Flows: 589 flows, 2578.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4151, Packets dropped at NIC: 6462, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=250, rx_ring_size=4096, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=128, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 10489, Packets dropped at NIC: 124, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=128, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=128, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114219 seconds
+Rated: 62485856.1 Bps, 499.88 Mbps, 92909.23 pps
+Flows: 589 flows, 5156.76 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 471, Packets dropped at NIC: 10142, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=128, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=128, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10367, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=128, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=128, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 151, Packets dropped at NIC: 10463, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=128, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=128, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=128, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=256, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=256, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=256, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 599, Packets dropped at NIC: 10014, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=256, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=256, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 343, Packets dropped at NIC: 10270, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=256, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=256, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 279, Packets dropped at NIC: 10334, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=256, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=256, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=256, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114194 seconds
+Rated: 62499535.8 Bps, 499.99 Mbps, 92929.57 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.88 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=512, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 823, Packets dropped at NIC: 9790, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=512, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 631, Packets dropped at NIC: 9982, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=512, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 535, Packets dropped at NIC: 10078, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=512, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=512, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=512, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=1024, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1335, Packets dropped at NIC: 9278, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=1024, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114194 seconds
+Rated: 62499535.8 Bps, 499.99 Mbps, 92929.57 pps
+Flows: 589 flows, 5157.88 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1111, Packets dropped at NIC: 9503, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=1024, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1047, Packets dropped at NIC: 9566, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=1024, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=1024, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1016, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=1024, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=2048, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 2359, Packets dropped at NIC: 8254, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=2048, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2135, Packets dropped at NIC: 8478, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=2048, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114194 seconds
+Rated: 62499535.8 Bps, 499.99 Mbps, 92929.57 pps
+Flows: 589 flows, 5157.88 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2071, Packets dropped at NIC: 8543, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=2048, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=2048, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=2048, processing_time=100
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=500, rx_ring_size=4096, processing_time=0
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4407, Packets dropped at NIC: 6207, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=4096, processing_time=10
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4215, Packets dropped at NIC: 6398, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=4096, processing_time=25
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4151, Packets dropped at NIC: 6463, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=4096, processing_time=50
+---------------------------------------------
+Testing rx_rate=500, rx_ring_size=4096, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.114193 seconds
+Rated: 62500083.1 Bps, 500.00 Mbps, 92930.38 pps
+Flows: 589 flows, 5157.93 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=500, rx_ring_size=4096, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=128, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057120 seconds
+Rated: 124948739.4 Bps, 999.58 Mbps, 185784.31 pps
+Flows: 589 flows, 10311.62 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 9896, Packets dropped at NIC: 717, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=128, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=128, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057100 seconds
+Rated: 124992504.3 Bps, 999.94 Mbps, 185849.38 pps
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10367, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10315.23 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=128, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=128, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 151, Packets dropped at NIC: 10462, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=128, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=128, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057097 seconds
+Rated: 124999071.7 Bps, 999.99 Mbps, 185859.15 pps
+Flows: 589 flows, 10315.77 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10495, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=128, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=128, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057118 seconds
+Rated: 124953114.6 Bps, 999.62 Mbps, 185790.81 pps
+Flows: 589 flows, 10311.98 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 119, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=128, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=256, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057114 seconds
+Rated: 124961865.7 Bps, 999.69 Mbps, 185803.83 pps
+Port 0 initialized and started
+Packets received: 10318, Packets dropped at NIC: 295, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10312.70 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=256, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=256, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 407, Packets dropped at NIC: 10206, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=256, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=256, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057097 seconds
+Rated: 124999071.7 Bps, 999.99 Mbps, 185859.15 pps
+Flows: 589 flows, 10315.77 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 311, Packets dropped at NIC: 10302, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=256, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=256, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10367, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=256, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=256, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=256, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Port 0 initialized and started
+Packets received: 10543, Packets dropped at NIC: 70, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=512, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057108 seconds
+Rated: 124974994.7 Bps, 999.79 Mbps, 185823.35 pps
+Flows: 589 flows, 10313.79 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 663, Packets dropped at NIC: 9950, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=512, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057102 seconds
+Rated: 124988126.5 Bps, 999.90 Mbps, 185842.87 pps
+Port 0 initialized and started
+Packets received: 535, Packets dropped at NIC: 10078, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10314.87 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=512, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057097 seconds
+Rated: 124999071.7 Bps, 999.99 Mbps, 185859.15 pps
+Flows: 589 flows, 10315.77 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 535, Packets dropped at NIC: 10078, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=512, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=512, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057109 seconds
+Rated: 124972806.3 Bps, 999.78 Mbps, 185820.09 pps
+Flows: 589 flows, 10313.61 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10111, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=512, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=1024, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Port 0 initialized and started
+Packets received: 1175, Packets dropped at NIC: 9438, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=1024, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1047, Packets dropped at NIC: 9566, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=1024, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1016, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=1024, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=1024, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057100 seconds
+Rated: 124992504.3 Bps, 999.94 Mbps, 185849.38 pps
+Flows: 589 flows, 10315.23 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1016, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=1024, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=2048, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057097 seconds
+Rated: 124999071.7 Bps, 999.99 Mbps, 185859.15 pps
+Flows: 589 flows, 10315.77 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2199, Packets dropped at NIC: 8414, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=2048, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057103 seconds
+Rated: 124985937.6 Bps, 999.88 Mbps, 185839.62 pps
+Flows: 589 flows, 10314.69 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2103, Packets dropped at NIC: 8510, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=2048, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057111 seconds
+Rated: 124968429.8 Bps, 999.74 Mbps, 185813.59 pps
+Flows: 589 flows, 10313.24 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2071, Packets dropped at NIC: 8543, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=2048, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=2048, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057101 seconds
+Rated: 124990315.4 Bps, 999.92 Mbps, 185846.13 pps
+Flows: 589 flows, 10315.05 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8575, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=2048, processing_time=100
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.057097 seconds
+Rated: 124999071.7 Bps, 999.99 Mbps, 185859.15 pps
+Flows: 589 flows, 10315.77 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10613, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=4096, processing_time=0
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4247, Packets dropped at NIC: 6366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=4096, processing_time=10
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.057098 seconds
+Rated: 124996882.5 Bps, 999.97 Mbps, 185855.89 pps
+Flows: 589 flows, 10315.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4151, Packets dropped at NIC: 6462, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=4096, processing_time=25
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=1000, rx_ring_size=4096, processing_time=50
+---------------------------------------------
+Testing rx_rate=1000, rx_ring_size=4096, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.057099 seconds
+Rated: 124994693.4 Bps, 999.95 Mbps, 185852.64 pps
+Flows: 589 flows, 10315.41 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6527, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=1000, rx_ring_size=4096, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=128, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028563 seconds
+Rated: 249871232.0 Bps, 1998.96 Mbps, 371529.60 pps
+Port 0 initialized and started
+Packets received: 7874, Packets dropped at NIC: 2739, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20621.08 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=128, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=128, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028563 seconds
+Rated: 249871232.0 Bps, 1998.96 Mbps, 371529.60 pps
+Flows: 589 flows, 20621.08 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 183, Packets dropped at NIC: 10430, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=128, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=128, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028563 seconds
+Rated: 249871232.0 Bps, 1998.96 Mbps, 371529.60 pps
+Flows: 589 flows, 20621.08 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=128, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=128, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028564 seconds
+Rated: 249862484.2 Bps, 1998.89 Mbps, 371516.59 pps
+Flows: 589 flows, 20620.36 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10495, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=128, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=128, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 119, Packets dropped at NIC: 10495, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=128, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=256, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Port 0 initialized and started
+Packets received: 8392, Packets dropped at NIC: 2221, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=256, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=256, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028562 seconds
+Rated: 249879980.3 Bps, 1999.03 Mbps, 371542.60 pps
+Flows: 589 flows, 20621.80 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 311, Packets dropped at NIC: 10302, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=256, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=256, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=256, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=256, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028559 seconds
+Rated: 249906229.2 Bps, 1999.24 Mbps, 371581.63 pps
+Flows: 589 flows, 20623.97 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=256, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=256, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028586 seconds
+Rated: 249670188.2 Bps, 1997.36 Mbps, 371230.67 pps
+Flows: 589 flows, 20604.49 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=256, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028560 seconds
+Rated: 249897478.9 Bps, 1999.17 Mbps, 371568.62 pps
+Port 0 initialized and started
+Packets received: 8695, Packets dropped at NIC: 1918, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20623.24 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=512, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028559 seconds
+Rated: 249906229.2 Bps, 1999.24 Mbps, 371581.63 pps
+Flows: 589 flows, 20623.97 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 567, Packets dropped at NIC: 10046, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=512, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=512, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028559 seconds
+Rated: 249906229.2 Bps, 1999.24 Mbps, 371581.63 pps
+Flows: 589 flows, 20623.97 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=512, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=512, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028562 seconds
+Rated: 249879980.3 Bps, 1999.03 Mbps, 371542.60 pps
+Port 0 initialized and started
+Packets received: 503, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20621.80 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=512, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028560 seconds
+Rated: 249897478.9 Bps, 1999.17 Mbps, 371568.62 pps
+Port 0 initialized and started
+Packets received: 9120, Packets dropped at NIC: 1493, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20623.24 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=1024, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028579 seconds
+Rated: 249731341.1 Bps, 1997.85 Mbps, 371321.59 pps
+Flows: 589 flows, 20609.53 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1079, Packets dropped at NIC: 9534, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=1024, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028560 seconds
+Rated: 249897478.9 Bps, 1999.17 Mbps, 371568.62 pps
+Flows: 589 flows, 20623.24 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1016, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=1024, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1015, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=1024, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=1024, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028554 seconds
+Rated: 249949989.4 Bps, 1999.59 Mbps, 371646.70 pps
+Port 0 initialized and started
+Packets received: 1015, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20627.58 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=1024, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028558 seconds
+Rated: 249914980.0 Bps, 1999.31 Mbps, 371594.64 pps
+Flows: 589 flows, 20624.69 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 10213, Packets dropped at NIC: 400, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=2048, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2103, Packets dropped at NIC: 8510, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=2048, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028562 seconds
+Rated: 249879980.3 Bps, 1999.03 Mbps, 371542.60 pps
+Flows: 589 flows, 20621.80 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=2048, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028561 seconds
+Rated: 249888729.3 Bps, 1999.10 Mbps, 371555.61 pps
+Flows: 589 flows, 20622.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8575, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=2048, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=2048, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028563 seconds
+Rated: 249871232.0 Bps, 1998.96 Mbps, 371529.60 pps
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20621.08 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=2048, processing_time=100
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.028562 seconds
+Rated: 249879980.3 Bps, 1999.03 Mbps, 371542.60 pps
+Port 0 initialized and started
+Packets received: 10614, Packets dropped at NIC: 0, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20621.80 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=4096, processing_time=0
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.028558 seconds
+Rated: 249914980.0 Bps, 1999.31 Mbps, 371594.64 pps
+Port 0 initialized and started
+Packets received: 4119, Packets dropped at NIC: 6494, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20624.69 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=4096, processing_time=10
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.028568 seconds
+Rated: 249827499.2 Bps, 1998.61 Mbps, 371464.57 pps
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6527, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 20617.47 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=2000, rx_ring_size=4096, processing_time=25
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.028563 seconds
+Rated: 249871232.0 Bps, 1998.96 Mbps, 371529.60 pps
+Flows: 589 flows, 20621.08 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=4096, processing_time=50
+---------------------------------------------
+Testing rx_rate=2000, rx_ring_size=4096, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.028576 seconds
+Rated: 249757558.7 Bps, 1998.06 Mbps, 371360.58 pps
+Flows: 589 flows, 20611.70 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6527, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=2000, rx_ring_size=4096, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=128, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011622 seconds
+Rated: 614100154.8 Bps, 4912.80 Mbps, 913095.85 pps
+Flows: 589 flows, 50679.74 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 3383, Packets dropped at NIC: 7230, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=128, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=128, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.011660 seconds
+Rated: 612098799.3 Bps, 4896.79 Mbps, 910120.06 pps
+Flows: 589 flows, 50514.57 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10495, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=128, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=128, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011499 seconds
+Rated: 620668927.7 Bps, 4965.35 Mbps, 922862.85 pps
+Flows: 589 flows, 51221.84 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 119, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=128, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=128, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011599 seconds
+Rated: 615317872.2 Bps, 4922.54 Mbps, 914906.45 pps
+Flows: 589 flows, 50780.23 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 120, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=128, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=128, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011526 seconds
+Rated: 619214992.1 Bps, 4953.71 Mbps, 920701.02 pps
+Flows: 589 flows, 51101.85 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 119, Packets dropped at NIC: 10494, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=128, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=256, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011531 seconds
+Rated: 618946492.0 Bps, 4951.57 Mbps, 920301.79 pps
+Port 0 initialized and started
+Packets received: 3415, Packets dropped at NIC: 7198, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51079.69 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=256, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=256, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.012785 seconds
+Rated: 558237935.0 Bps, 4465.90 Mbps, 830035.19 pps
+Flows: 589 flows, 46069.61 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10367, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=256, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=256, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011505 seconds
+Rated: 620345241.1 Bps, 4962.76 Mbps, 922381.57 pps
+Flows: 589 flows, 51195.13 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=256, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=256, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011463 seconds
+Rated: 622618162.7 Bps, 4980.94 Mbps, 925761.14 pps
+Flows: 589 flows, 51382.70 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 248, Packets dropped at NIC: 10366, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=256, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=256, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011504 seconds
+Rated: 620399165.5 Bps, 4963.19 Mbps, 922461.75 pps
+Flows: 589 flows, 51199.58 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 247, Packets dropped at NIC: 10367, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=256, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011559 seconds
+Rated: 617447184.0 Bps, 4939.57 Mbps, 918072.49 pps
+Flows: 589 flows, 50955.96 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 3671, Packets dropped at NIC: 6942, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=512, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.011484 seconds
+Rated: 621479623.8 Bps, 4971.83 Mbps, 924068.26 pps
+Flows: 589 flows, 51288.74 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=512, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011557 seconds
+Rated: 617554036.5 Bps, 4940.43 Mbps, 918231.37 pps
+Flows: 589 flows, 50964.78 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 504, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=512, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011988 seconds
+Rated: 595351351.3 Bps, 4762.81 Mbps, 885218.55 pps
+Flows: 589 flows, 49132.46 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 503, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=512, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=512, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011515 seconds
+Rated: 619806513.2 Bps, 4958.45 Mbps, 921580.54 pps
+Flows: 589 flows, 51150.67 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 503, Packets dropped at NIC: 10110, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=512, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011567 seconds
+Rated: 617020143.5 Bps, 4936.16 Mbps, 917437.53 pps
+Port 0 initialized and started
+Packets received: 4247, Packets dropped at NIC: 6366, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 50920.72 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=1024, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.011547 seconds
+Rated: 618088854.2 Bps, 4944.71 Mbps, 919026.58 pps
+Flows: 589 flows, 51008.92 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1016, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=1024, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011525 seconds
+Rated: 619268720.1 Bps, 4954.14 Mbps, 920780.91 pps
+Port 0 initialized and started
+Packets received: 1015, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51106.29 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=1024, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011530 seconds
+Rated: 619000173.4 Bps, 4952.00 Mbps, 920381.61 pps
+Flows: 589 flows, 51084.12 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1015, Packets dropped at NIC: 9598, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=1024, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=1024, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011468 seconds
+Rated: 622346703.8 Bps, 4978.77 Mbps, 925357.51 pps
+Flows: 589 flows, 51360.30 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 1015, Packets dropped at NIC: 9599, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=1024, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011598 seconds
+Rated: 615370926.0 Bps, 4922.96 Mbps, 914985.34 pps
+Port 0 initialized and started
+Packets received: 5207, Packets dropped at NIC: 5406, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 50784.61 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=2048, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.011472 seconds
+Rated: 622129707.1 Bps, 4977.03 Mbps, 925034.86 pps
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51342.39 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=2048, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011482 seconds
+Rated: 621587876.6 Bps, 4972.70 Mbps, 924229.22 pps
+Flows: 589 flows, 51297.68 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=2048, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011537 seconds
+Rated: 618624599.1 Bps, 4948.99 Mbps, 919823.17 pps
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51053.13 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=2048, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=2048, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011505 seconds
+Rated: 620345241.1 Bps, 4962.76 Mbps, 922381.57 pps
+Port 0 initialized and started
+Packets received: 2039, Packets dropped at NIC: 8574, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51195.13 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=2048, processing_time=100
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=0
+Actual: 10612 packets (7137072 bytes) sent in 0.011435 seconds
+Rated: 624142719.7 Bps, 4993.14 Mbps, 928027.98 pps
+Flows: 589 flows, 51508.52 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=4096, processing_time=0
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=10
+Actual: 10612 packets (7137072 bytes) sent in 0.011488 seconds
+Rated: 621263231.1 Bps, 4970.10 Mbps, 923746.51 pps
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Flows: 589 flows, 51270.89 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Test complete for rx_rate=5000, rx_ring_size=4096, processing_time=10
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=25
+Actual: 10612 packets (7137072 bytes) sent in 0.011543 seconds
+Rated: 618303040.8 Bps, 4946.42 Mbps, 919345.05 pps
+Flows: 589 flows, 51026.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=4096, processing_time=25
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=50
+Actual: 10612 packets (7137072 bytes) sent in 0.011455 seconds
+Rated: 623052989.9 Bps, 4984.42 Mbps, 926407.68 pps
+Flows: 589 flows, 51418.59 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6526, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=4096, processing_time=50
+---------------------------------------------
+Testing rx_rate=5000, rx_ring_size=4096, processing_time=100
+Actual: 10612 packets (7137072 bytes) sent in 0.011471 seconds
+Rated: 622183942.1 Bps, 4977.47 Mbps, 925115.50 pps
+Flows: 589 flows, 51346.87 fps, 10606 flow packets, 6 non-flow
+Statistics for network device: enp114s0f1
+	Successful packets:        10612
+	Failed packets:            0
+	Truncated packets:         0
+	Retried packets (ENOBUFS): 0
+	Retried packets (EAGAIN):  0
+Port 0 initialized and started
+Packets received: 4087, Packets dropped at NIC: 6527, Total drops at application layer: 0
+Port 0 closed
+Test complete for rx_rate=5000, rx_ring_size=4096, processing_time=100
+---------------------------------------------
